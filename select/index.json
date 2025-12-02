@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Symbol III : ▽",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-02T07:29:23.596523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Symbol III : ▽",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/01_Symbol_III___▽_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Symbol III : ▽",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/02_Symbol_III___▽_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "symbol iii",
+      "artist": "ave mujica",
+      "has_synced": true,
+      "path": "select/03_symbol_iii_ave_mujica.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Symbol III：▽",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/04_Symbol_III_▽_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Symbol III - 🜄",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/05_Symbol_III_-_🜄_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Symbol III：▽",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/06_Symbol_III_▽_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Symbol III : ▽",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Symbol_III___▽_Ave_Mujica.txt"
+    }
+  ]
+}
